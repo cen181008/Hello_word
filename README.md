@@ -1,2 +1,1 @@
-# Hello_word
-Java
+SEL * FROM CEN WHERE NAME='Hello word'
